@@ -1,6 +1,6 @@
 # Lab Activity 1: Overview of Machine Learning Applications
 
-https://github.com/user-attachments/assets/0bec270a-602d-4cd1-a20e-06dd18792a81
+[https://github.com/user-attachments/assets/0bec270a-602d-4cd1-a20e-06dd18792a81](https://github.com/user-attachments/assets/cce72806-3e19-4ce2-ba25-cd1d23c0a967)
 
 # Machine Learning
 Machine learning (ML) is a branch of artificial intelligence (AI) that focuses on developing algorithms and statistical models that enable computers to learn from and make decisions or predictions based on data. Instead of being explicitly programmed to perform a task, machine learning systems improve their performance through experience and by finding patterns in data.
